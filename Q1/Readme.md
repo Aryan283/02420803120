@@ -1,6 +1,8 @@
 
 Added the screenshots
-Could not capture the client registration screenshot
+
+
+Could not capture the company registration screenshot
 
 1) List all the trains
    
